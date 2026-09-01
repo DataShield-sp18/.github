@@ -47,7 +47,7 @@ your data or its contents is ever sent anywhere else.
 | [`data-shield-app`](https://github.com/DataShield-sp18/data-shield-app) | Main application — FastAPI backend + Next.js frontend, the de-identification/re-identification pipeline |
 | [`data-shield-docs`](https://github.com/DataShield-sp18/data-shield-docs) | Public user manual (Docusaurus) |
 | [`data-shield-terraform`](https://github.com/DataShield-sp18/data-shield-terraform) | Infrastructure as code |
-| [`data-shield-floci-env`](https://github.com/DataShield-sp18/data-shield-floci-env) | Environment / deployment configuration |
+| [`data-shield-floci-env`](https://github.com/DataShield-sp18/data-shield-floci-env) | Experiment repo — safe local deploy testing via the foci AWS emulator, feeding a future AWS-specific architecture |
 
 ## Security Model
 
