@@ -1,11 +1,8 @@
 <div align="center">
 
-# 🛡️ DataShield
+# DataShield
 
-**Local-first PII/PHI de-identification platform — for teams, not just scripts.**
-
-No cloud. No LLM. No external API calls. Detection and transformation run entirely on your own
-machine or cluster.
+**Local-first PII/PHI de-identification platform**
 
 </div>
 
